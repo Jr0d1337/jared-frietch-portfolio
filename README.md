@@ -24,7 +24,7 @@ I am an Information Technology student focused on System Administration and clou
 - File permissions and access control  
 - Command-line operations and system configuration  
 
-(Add repo link if available)
+https://github.com/Jr0d1337/linux-admin
 
 ---
 

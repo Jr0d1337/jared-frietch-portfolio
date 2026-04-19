@@ -71,5 +71,5 @@ Through my internship at Findlow Filtration, I have gained experience working wi
 ---
 
 ## Contact
-Email: [Add email]  
-LinkedIn: [Add LinkedIn if you have one]
+Email: frietch1@gmail.com 
+LinkedIn: https://www.linkedin.com/in/jaredfrietch/

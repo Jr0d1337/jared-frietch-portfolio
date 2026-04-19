@@ -8,7 +8,7 @@ I am an Information Technology student focused on System Administration and clou
 
 ## Resume
 
----
+https://github.com/Jr0d1337/current-resume
 
 ## Projects
 
@@ -33,7 +33,7 @@ https://github.com/Jr0d1337/linux-admin
 - User account and system management  
 - Windows system configuration and security  
 
-(Add repo link if available)
+https://github.com/Jr0d1337/windows-server-networking
 
 ---
 
@@ -42,8 +42,7 @@ https://github.com/Jr0d1337/linux-admin
 - Data extraction and reporting  
 - Working with business data systems  
 
-(Add repo link if available)
-
+https://github.com/Jr0d1337/sql
 ---
 
 ### Raspberry Pi Security System
@@ -51,7 +50,7 @@ https://github.com/Jr0d1337/linux-admin
 - Integration of sensors and camera module  
 - Real-world application of system monitoring  
 
-
+https://github.com/Jr0d1337/pi
 
 ---
 

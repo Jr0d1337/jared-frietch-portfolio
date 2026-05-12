@@ -50,6 +50,7 @@ https://github.com/Jr0d1337/sql
 https://github.com/Jr0d1337/pi
 
 ---
+## Cloud Experience
 - AWS cloud infrastructure labs using EC2, EBS, EFS, VPC, CloudFront, ELB, Auto Scaling, Lambda, ElastiCache, and SageMaker
 - Hands-on Linux server administration, networking, storage configuration, and cloud deployment tasks
 - Experience configuring scalable and highly available cloud environments within AWS

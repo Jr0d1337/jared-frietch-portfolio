@@ -1,6 +1,3 @@
-# jared-frietch-portfolio
-my portfolio
-
 # Jared Frietch - IT Portfolio
 
 ## About Me

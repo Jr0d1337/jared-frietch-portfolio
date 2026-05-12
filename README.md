@@ -53,7 +53,13 @@ https://github.com/Jr0d1337/sql
 https://github.com/Jr0d1337/pi
 
 ---
-- AWS Cloud Labs
+- AWS cloud infrastructure labs using EC2, EBS, EFS, VPC, CloudFront, ELB, Auto Scaling, Lambda, ElastiCache, and SageMaker
+- Hands-on Linux server administration, networking, storage configuration, and cloud deployment tasks
+- Experience configuring scalable and highly available cloud environments within AWS
+- Exposure to monitoring and logging concepts using CloudWatch and related AWS services
+- Coursework and labs focused on cloud systems administration, automation, and infrastructure management
+- Documentation of technical configurations, troubleshooting steps, and deployment procedures
+  
 https://github.com/Jr0d1337/cloud
 
 ## Internship Experience
